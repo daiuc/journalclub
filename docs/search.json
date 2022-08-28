@@ -19,5 +19,47 @@
     "title": "Journal-Club-2022-08-29",
     "section": "Figure 2",
     "text": "Figure 2\n\nkey\nkey"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Paper1"
+  },
+  {
+    "objectID": "analysis/index.html",
+    "href": "analysis/index.html",
+    "title": "Journal Club",
+    "section": "",
+    "text": "First analysis: link"
+  },
+  {
+    "objectID": "analysis/analysis1.html",
+    "href": "analysis/analysis1.html",
+    "title": "analysis1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "analysis/analysis1.html#running-code",
+    "href": "analysis/analysis1.html#running-code",
+    "title": "analysis1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\nCode\n1 + 5\n\n\n[1] 6\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "analysis/index.html#presentations",
+    "href": "analysis/index.html#presentations",
+    "title": "Journal Club",
+    "section": "Presentations",
+    "text": "Presentations\n\nFirst paper: link"
   }
 ]
