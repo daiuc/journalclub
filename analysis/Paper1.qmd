@@ -1,0 +1,22 @@
+---
+title: "Journal-Club-2022-08-29"
+author: "Chao Dai"
+format: revealjs
+---
+
+## Background
+
+- A
+- B
+- C
+
+## Figure 1
+
+- key
+- key
+
+
+## Figure 2
+
+- key
+- key
